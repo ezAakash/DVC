@@ -1,1 +1,3 @@
 data ka remote storage jaha pe acutally data store hoga , version by version .
+
+hum S3 ko bhi git se track nahi krte .
