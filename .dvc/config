@@ -1,0 +1,4 @@
+[core]
+    remote = datatracked
+['remote "datatracked"']
+    url = ../S3
